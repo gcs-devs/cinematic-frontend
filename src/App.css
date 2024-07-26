@@ -1,0 +1,24 @@
+.app-container {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.nav-bar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.nav-bar li {
+  display: inline;
+  margin-right: 10px;
+}
+
+.nav-bar a {
+  text-decoration: none;
+  color: #7BFF00;
+}
+
+.nav-bar a:hover {
+  text-decoration: underline;
+}
+

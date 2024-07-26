@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(135deg, #2ABFA1, #C67EDD);
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+}
+
+.history-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.history-table th, .history-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.history-table th {
+  background-color: #f2f2f2;
+  text-align: left;
+}
+
